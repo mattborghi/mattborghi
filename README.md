@@ -19,9 +19,9 @@ Hi, I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 fr
 
 - 👨🏽‍💻 I’m interested in financial derivatives, astrophysics, data science, deep learning, and more.
 - 🌱 I’m currently learning [Julia](https://julialang.org/) and a lot of other tools.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@mail](mailto:borghi.matias@gmail.com);
-- 📝[Resume](https://mattborghi.github.io/CV/)
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [@mail](mailto:borghi.matias@gmail.com).
+- 📝[Resume](https://mattborghi.github.io/CV/).
 
 **Languages and Tools:**  
 
