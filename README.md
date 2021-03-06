@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/borghim">
-  <img style="border: 1px solid #fff;" align="left" alt="Matias Borghi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/twitter.svg" />
+  <img align="left" alt="Matias Borghi | Twitter" width="22px" src="https://github.com/mattborghi/mattborghi/blob/main/assets/img/twitter.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/borghimatias/">
-  <img style="border: 1px solid #fff;" align="left" alt="Borghi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linkedin.svg" />
+  <img align="left" alt="Borghi's LinkdeIN" width="22px" src="https://github.com/mattborghi/mattborghi/blob/main/assets/img/linkedin.jpg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
@@ -13,7 +13,7 @@
 
 Hi, I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 from Buenos Aires, Argentina, currently, I'm a Sr. Quantitative Analyst 🤓 at [Crisil](https://www.crisil.com/), member of the [SciQuant](https://github.com/SciQuant) organization 📈. Beside's programming, I enjoy playing the violin 🎻, biking and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/mattborghi/mattborghi/blob/main/sun.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mattborghi/mattborghi/blob/main/assets/img/sun.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
