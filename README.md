@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/borghim">
-  <img align="left" alt="Matias Borghi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img style="border: 1px solid #fff;" align="left" alt="Matias Borghi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/borghimatias/">
-  <img align="left" alt="Borghi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="border: 1px solid #fff;" align="left" alt="Borghi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
