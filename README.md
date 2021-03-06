@@ -4,7 +4,7 @@
   <img align="left" alt="Matias Borghi | Twitter" width="22px" src="./assets/img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/borghimatias/">
-  <img align="left" alt="Borghi's Linkedin" width="23px" src="./assets/img/linkedin.webp" />
+  <img align="left" alt="Borghi's Linkedin" width="24px" src="./assets/img/linkedin.webp" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
