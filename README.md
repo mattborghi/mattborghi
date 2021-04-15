@@ -17,7 +17,8 @@ I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living
   
 <br/>
 
-- 👨🏽‍💻 I’m interested in financial derivatives, astrophysics, data science, deep learning, wildlife conservation and more.
+- 👨🏽‍💻 I’m interested in financial derivatives, astrophysics, 
+data science, deep learning, wildlife conservation and more.
 - 🌱 I’m currently learning [Julia](https://julialang.org/) and a lot of other tools.
 - 💬 Ask me about anything, I am happy to help.
 - [📫](mailto:borghi.matias@gmail.com) 👈 Send me an email if you want to reach me out!.
