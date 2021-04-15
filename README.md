@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <a href="https://twitter.com/borghim">
   <img align="left" alt="Matias Borghi | Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
 
-### About me
+## About me
 
 I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living in Buenos Aires, Argentina. Currently, I'm a Sr. Quantitative Analyst 🤓 at [Crisil](https://www.crisil.com/), member of the [SciQuant](https://github.com/SciQuant) organization 📈. Besides programming, I enjoy playing the violin 🎻, biking 🚴 and traveling ✈️.
 
