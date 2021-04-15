@@ -9,15 +9,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
 
-<!-- <br /> -->
-
 ### About me
 
 I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living in Buenos Aires, Argentina. Currently, I'm a Sr. Quantitative Analyst 🤓 at [Crisil](https://www.crisil.com/), member of the [SciQuant](https://github.com/SciQuant) organization 📈. Besides programming, I enjoy playing the violin 🎻, biking 🚴 and traveling ✈️.
 
-  <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="500" height="300" />
+  <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
-<!-- **Talking about Personal Stuffs:** -->
+<br/>
 
 - 👨🏽‍💻 I’m interested in financial derivatives, astrophysics, data science, deep learning, wildlife conservation and more.
 - 🌱 I’m currently learning [Julia](https://julialang.org/) and a lot of other tools.
@@ -38,6 +36,7 @@ I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br/>
 
 ## &#x1f4c8; My GitHub Stats
 
