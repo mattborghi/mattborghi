@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living in Buenos Aires, Argentina. Currently, I'm a Sr. Quantitative Analyst 🤓 at [Crisil](https://www.crisil.com/), member of the [SciQuant](https://github.com/SciQuant) organization 📈. Besides programming, I enjoy playing the violin 🎻, biking 🚴 and traveling ✈️.
+I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living in Buenos Aires, Argentina. Currently, I'm a Software Developer 🤓 at [Ekumen](https://www.ekumenlabs.com/) <img src="http://www.ekumenlabs.com/images/iso-big.png" width="15px" height="15px"/>, member of the [SciQuant](https://github.com/SciQuant) organization. Besides programming, I enjoy playing the violin 🎻, cycling 🚴 and travelling ✈️.
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
