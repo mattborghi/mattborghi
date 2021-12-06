@@ -22,7 +22,7 @@ I'm [Matias Borghi](https://mattborghi.github.io/), a 🔭 Physicist 🚀 living
 - [📫](mailto:borghi.matias@gmail.com) 👈 Send me an email if you want to reach me out!.
 - [📝](https://mattborghi.github.io/CV/) 👈 Here you cand find my résumé.
 
-**Languages and Tools:**  
+### Languages and Tools
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
