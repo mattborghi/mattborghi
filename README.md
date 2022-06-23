@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand gif" width="20px" height="20px"> ![](https://visitor-badge.glitch.me/badge?page_id=mattborghi.mattborghi)
 
 <a href="https://twitter.com/borghim">
   <img align="left" alt="Matias Borghi | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
